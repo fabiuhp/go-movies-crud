@@ -122,15 +122,3 @@ curl -X PUT http://localhost:8080/movies/1 -H "Content-Type: application/json" -
 ```sh
 curl -X DELETE http://localhost:8080/movies/1
 ```
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues e pull requests para melhorias e correções.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Feito com ❤️ por [Seu Nome]
